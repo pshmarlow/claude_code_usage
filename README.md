@@ -2,7 +2,9 @@
 
 settings.json:
 Create this file in each project you want locked down
+```
 C:\path\to\your-project\.claude\settings.json
+```
 
 
 ## Building flow
